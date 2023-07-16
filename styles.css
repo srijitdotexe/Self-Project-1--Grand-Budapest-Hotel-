@@ -1,6 +1,4 @@
 section{
-    display: flex;
-    justify-content: center;
     background-image: url(./Assets/Images/TGBH.png);
     height: 50rem;
 }
