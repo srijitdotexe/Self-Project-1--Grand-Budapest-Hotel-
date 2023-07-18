@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navbar-brand{
     margin-left: 16px;
     font-family: 'Beau Rivage', cursive;
@@ -32,4 +33,9 @@
 
 .navbar-toggler{
     color: #ffcccc;
+=======
+section{
+    background-image: url(./Assets/Images/TGBH.png);
+    height: 50rem;
+>>>>>>> 5e886e2ce27bd67a8acb4825ad66e99af80e12be
 }
